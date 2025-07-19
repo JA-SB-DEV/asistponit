@@ -20,9 +20,7 @@ _AsistPoint_ es una aplicación móvil multiplataforma desarrollada en **Flutter
 ## 🛠️ Tecnologías Utilizadas
 
 - **Frontend:** Flutter (Dart)
-- **Backend-as-a-Service:** Firebase
-  - Firebase Authentication
-  - Cloud Firestore
+- **Backend-as-a-Service:** Supabase
   - Realtime Database (si aplica)
 - **Geolocalización:** `geolocator` y `permission_handler` (Flutter packages)
 - **Gestión de estado:** `provider`
